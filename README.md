@@ -9,7 +9,7 @@ O objetivo é ser **simples e leve**, mostrando boas práticas de microserviços
 
 ### Auth Service
 
-**Repositório:** [ecommerce-demo-auth-service](https://github.com/pablopereira27/ecommerce-demo-auth-service)  
+**Repositório:** ~~ecommerce-demo-auth-service~~ (Projeto pendente)  
 Responsável pela autenticação e gestão de usuários.
 
 ### Product Service
@@ -19,12 +19,12 @@ Responsável pelo catálogo de produtos.
 
 ### Order Service
 
-**Repositório:** [ecommerce-demo-order-service](https://github.com/pablopereira27/ecommerce-demo-order-service)  
+**Repositório:** ~~ecommerce-demo-order-service~~ (Projeto pendente)  
 Responsável pelo processamento e gestão de pedidos.
 
 ### Infra
 
-**Repositório:** <u>Este repositório</u><br/>
+**Repositório:** <ins>Este repositório</ins>  
 Responsável por **“hostiar” containers de serviços de infraestrutura** como RabbitMQ, monitoramento e relatórios.
 
 ---
