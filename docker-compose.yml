@@ -1,0 +1,9 @@
+name: ecodemo
+
+services:
+  rabbitmq:
+    container_name: rabbitmq
+    image: rabbitmq:3-management
+    ports:
+      - "5672:5672" # porta de comunicação para apps
+      - "15672:15672" # painel de administração web
